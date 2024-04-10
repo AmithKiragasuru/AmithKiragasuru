@@ -1,4 +1,4 @@
-- 👋 ಏನ್ ಗುರು ಎಲ್ಲಾ ಆರಾಮ ?
+- 👋 ಏನ್ ಮಗ ಎಲ್ಲಾ ಆರಾಮ ?
 <!---
 AmithKiragasuru/AmithKiragasuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
